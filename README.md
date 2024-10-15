@@ -5,6 +5,9 @@
 
 - [환경](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#환경)
 - [프로젝트 개요](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#프로젝트-개요)
+- [디렉토리 구조](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#디렉토리-구조)
+- [패키지 설치](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#패키지-설치)
+- [사용법](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#사용법)
 
 ## 환경
 - Python 3.10.14
