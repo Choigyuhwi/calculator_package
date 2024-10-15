@@ -31,10 +31,12 @@ calculator_package/
 │   ├── complex.py
 │   └── utils.py  
 ├── test/
-│   ├── __init__.py
-│   ├── test_basic.py
-│   ├── test_engineering.py
-│   ├── test_complex.py
+│   ├── test_calculator.py
+│  
+├── README.md
+├── setup.py
+├── LICENSE
+
 ``` 
 
 ## 패키지 설치
