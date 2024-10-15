@@ -3,7 +3,7 @@
 
 ## 목차
 
-- [환경](https://github.com/Choigyuhwi/calculator_package/Calculator-패키지#환경)
+- [환경](https://github.com/Choigyuhwi/calculator_package/blob/master/README.md#환경)
 
 ## 환경
 
