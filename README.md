@@ -43,7 +43,7 @@ calculator_package/
 
 ```bash
 git clone https://github.com/Choigyuhwi/calculator_package.git
-cd AI-calculator_package
+cd calculator_package
 ```
 
 ## 사용법
